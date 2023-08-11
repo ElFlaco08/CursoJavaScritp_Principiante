@@ -15,3 +15,12 @@ document.write("<h1>Hello World</h1>")
 
 true       //Boolean
 false      //Boolean
+
+
+
+// Array
+['joe', 'ryan', 'martha']    //Array - Arreglos
+[1, 2, 3]    //Array - Arreglos
+[true, false, true, false]    //Array - Arreglos
+
+
