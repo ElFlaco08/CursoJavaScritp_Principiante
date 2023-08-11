@@ -38,3 +38,4 @@
 console.log('Esto Es una cadena')
 console.log(15)
 console.log(true)
+console.log({username: 'Welington', score: 80.4, hours: 16, professional: true})
