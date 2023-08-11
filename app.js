@@ -130,3 +130,20 @@ if (score > 30) {
 } else {
     console.log('Necesitas ver tutoriales para entender el juego')
 }
+
+
+// switch
+
+let typeCard = 'Debid Card';
+
+switch(typeCard) {
+    case 'Debid Card':
+        console.log('Esta Es una Tarjeta de Debito')
+    break;
+    case 'Debid Card':
+        console.log('Esta Es una Tarjeta de Debito')
+    break;
+    default:
+        console.log('No Card')
+
+}
