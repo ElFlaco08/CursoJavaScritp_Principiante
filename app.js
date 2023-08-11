@@ -43,20 +43,43 @@
 
 // Variables
 
-var nombreDelUsuario = 'Welington '; //Var
+// var nombreDelUsuario = 'Welington '; //Var
 
-let apellido = 'Santos'; //let 
-nombreDelUsuario = 'Welington Manuel ';
-apellido = 'Villar Santos ';
-
-
-const edad = 15;  //Const - Constante
+// let apellido = 'Santos'; //let 
+// nombreDelUsuario = 'Welington Manuel ';
+// apellido = 'Villar Santos ';
 
 
-// camelCase 
-let userName = 'ElFlaco08'  // camelCase 
+// const edad = 15;  //Const - Constante
+
+
+// // camelCase 
+// let userName = 'ElFlaco08'  // camelCase 
 
 
 
-console.log(nombreDelUsuario + apellido + "Edad " + edad)
-console.log("Usuario: " + userName)
+// console.log(nombreDelUsuario + apellido + "Edad " + edad)
+// console.log("Usuario: " + userName)
+
+
+// Operandos Numeros  --Concatenacion
+
+
+let numberOne = 60;
+let numberTwo = 100;
+
+let resultado = numberOne + numberTwo;
+resultado = numberOne - numberTwo;
+resultado = numberOne * numberTwo;
+resultado = numberOne / numberTwo;
+
+console.log(resultado)
+
+
+// Operandos String  --Concatenacion
+
+let nombre = 'Welington ';
+let apellido = 'Santos';
+
+let resultado2 = nombre + apellido;
+console.log(resultado2)
