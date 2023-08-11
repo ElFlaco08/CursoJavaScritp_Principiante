@@ -96,7 +96,37 @@ resultado3 = numberOne < numberDos;      // Menor Que
 resultado3 = numberOne >= numberDos;     // Mayor o igual que
 resultado3 = numberOne <= numberDos;     // Menor o Igual que
 resultado3 = numberOne == numberDos;     // Igual
-resultado3 = numberOne === numberDos;
+resultado3 = numberOne === numberDos;    // Igualdad
 resultado3 = numberOne != numberDos;     // Diferencia -- diferente
 
 console.log(resultado3)
+
+
+
+
+// Condicionales 
+
+let passwordDB = 'pepe123';
+let input = 'pepe123';
+
+let resultado4 = input == passwordDB;
+
+
+if (resultado4 == true) {
+    console.log('Login Correcto')
+}
+
+else {
+    console.log('Login Incorrecto')    
+}
+
+
+let score = 70;
+
+if (score > 30) {
+    console.log('Necesitas Practicar Mas')
+} else if(score > 15){
+    console.log('Estas mejorando')
+} else {
+    console.log('Necesitas ver tutoriales para entender el juego')
+}
