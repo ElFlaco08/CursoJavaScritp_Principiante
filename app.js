@@ -1,36 +1,38 @@
-document.write("<h1>Hello World</h1>")
+// document.write("<h1>Hello World</h1>")
 
-//Tipos De Datos
+// //Tipos De Datos
 
-"Hello World"   // String
-'Hello World'  // String
+// "Hello World"   // String
+// 'Hello World'  // String
 
-10000000  //Number
-1000.2    //Number
-5         //Number
--3        //Number
-4         //Number
-2         //Number
-
-
-true       //Boolean
-false      //Boolean
+// 10000000  //Number
+// 1000.2    //Number
+// 5         //Number
+// -3        //Number
+// 4         //Number
+// 2         //Number
 
 
-
-// Array
-['joe', 'ryan', 'martha']    //Array - Arreglos
-[1, 2, 3]    //Array - Arreglos
-[true, false, true, false]    //Array - Arreglos
+// true       //Boolean
+// false      //Boolean
 
 
 
-// Object 
+// // Array
+// ['joe', 'ryan', 'martha']    //Array - Arreglos
+// [1, 2, 3]    //Array - Arreglos
+// [true, false, true, false]    //Array - Arreglos
 
 
-{
-    username: 'Welington',
-    score:  80.4,
-    hours: 16,
-    professional: true
-}
+
+// // Object 
+
+
+// {
+//     "username": 'Welington',
+//     "score":  80.4,
+//     "hours": 16,
+//     "professional": true
+// }
+
+console.log('Esto Es una cadena')
