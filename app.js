@@ -36,3 +36,5 @@
 // }
 
 console.log('Esto Es una cadena')
+console.log(15)
+console.log(true)
