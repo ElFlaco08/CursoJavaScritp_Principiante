@@ -24,3 +24,13 @@ false      //Boolean
 [true, false, true, false]    //Array - Arreglos
 
 
+
+// Object 
+
+
+{
+    username: 'Welington',
+    score:  80.4,
+    hours: 16,
+    professional: true
+}
