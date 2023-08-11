@@ -83,3 +83,20 @@ let apellido = 'Santos';
 
 let resultado2 = nombre + apellido;
 console.log(resultado2)
+
+
+
+// Comparadores
+
+let numberUno = 34;
+let numberDos = 33;
+
+let resultado3 = numberOne > numberDos;  // Mayor Que
+resultado3 = numberOne < numberDos;      // Menor Que
+resultado3 = numberOne >= numberDos;     // Mayor o igual que
+resultado3 = numberOne <= numberDos;     // Menor o Igual que
+resultado3 = numberOne == numberDos;     // Igual
+resultado3 = numberOne === numberDos;
+resultado3 = numberOne != numberDos;     // Diferencia -- diferente
+
+console.log(resultado3)
