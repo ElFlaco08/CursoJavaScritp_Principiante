@@ -53,5 +53,10 @@ apellido = 'Villar Santos ';
 const edad = 15;  //Const - Constante
 
 
+// camelCase 
+let userName = 'ElFlaco08'  // camelCase 
+
+
 
 console.log(nombreDelUsuario + apellido + "Edad " + edad)
+console.log("Usuario: " + userName)
